@@ -1,6 +1,6 @@
 # Rotating Navigation
 
-Static Landing Page that rotates upon pressing the Navigation Menu.
+Static Landing Page that rotates upon pressing the Navigation Menu. Inspired by ZTM.
 
 
 ## Tech Stack
